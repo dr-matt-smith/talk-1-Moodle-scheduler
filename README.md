@@ -6,7 +6,7 @@ The Moodle **Scheduler** is a Moodle tool allowing staff to create timetslots fo
 
 Here is an example for fictional student **Fred Smith**:
 
-![](images/107_example.png)
+![example](images/107_example.png)
 
 ---
 
